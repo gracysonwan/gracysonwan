@@ -14,7 +14,7 @@ technology that solves real-world problems.
 ##  Currently
 - Strengthening DSA & System Design
 - Exploring AI integration in backend systems
-- Seeking SWE Internships 2027
+  
 
 ##  Connect
 [LinkedIn](linkedin.com/in/gracy-sonwan) • [Email](mailto:gracysonwan11@gmail.com)
