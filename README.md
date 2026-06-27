@@ -1,16 +1,20 @@
-## Hi there 👋
 
-<!--
-**gracysonwan/gracysonwan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+# Hey, I'm Gracy 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Pre-final year Computer Science student passionate about building 
+technology that solves real-world problems.
+
+##  Tech Stack
+- **Languages:** Java, Python, SQL
+- **Frameworks:** Spring Boot, Spring Data JPA, Spring Security
+- **Tools:** Git, Maven, Postman, IntelliJ
+- **Databases:** MySQL
+
+##  Currently
+- Strengthening DSA & System Design
+- Exploring AI integration in backend systems
+- Seeking SWE Internships 2027
+
+##  Connect
+[LinkedIn](linkedin.com/in/gracy-sonwan) • [Email](mailto:gracysonwan11@gmail.com)
