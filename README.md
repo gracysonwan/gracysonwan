@@ -7,11 +7,17 @@
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  HERO POSTER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a0533,70:3b0764,100:0D1117&height=260&section=header&text=Gracy%20Sonwan&fontSize=72&fontColor=F8FAFC&fontAlignY=42&desc=Backend%20Engineer%20%20%C2%B7%20%20AI%20Explorer%20%20%C2%B7%20%20System%20Builder&descSize=17&descColor=C084FC&descAlignY=62&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&color=0:0D1117,40:2e0a5e,70:6b21a8,100:0D1117&height=200&section=header&text=Gracy%20Sonwan&fontSize=70&fontColor=F8FAFC&fontAlignY=55&animation=fadeIn" width="100%"/>
 
 <br/>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=BACKEND+ENGINEER+%C2%B7+AI+EXPLORER+%C2%B7+SYSTEM+BUILDER;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;Pre-Final+Year+CS+Student+%C2%B7+India;Building+Systems+that+Think+%26+Scale)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b21a8,50:a855f7,100:6b21a8&height=3&section=header" width="100%"/>
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=20&pause=900&color=C084FC&center=true&vCenter=true&multiline=false&width=700&lines=Backend+Engineer+%C2%B7+AI+Explorer+%C2%B7+System+Builder;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;Pre-Final+Year+CS+Student+%C2%B7+India+%F0%9F%87%AE%F0%9F%87%B3;Building+Systems+that+Think+%26+Scale+%E2%9C%A6;Open+to+Software+Engineering+Internships+%F0%9F%9A%80)](https://git.io/typing-svg)
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:6b21a8,50:a855f7,100:6b21a8&height=3&section=header" width="100%"/>
 
 <br/>
 
@@ -21,7 +27,7 @@
 <tr>
 <td valign="middle" align="center" width="280">
 
-<img src="./girl.png" width="270" style="border-radius: 20px; border: 2px solid #C084FC;" alt="coder girl character"/>
+<img src="YOUR_CHARACTER_IMAGE_URL_HERE" width="270" style="border-radius: 20px; border: 2px solid #C084FC;" alt="coder girl character"/>
 
 </td>
 <td valign="middle" align="left" width="30">&nbsp;</td>
@@ -35,7 +41,6 @@
   Pre-final year CS student.
   Backend developer by practice.
   AI explorer by ambition.
-  Hackathon competitor by choice.
 
   Currently: building systems that
   are clean, scalable — and asking
