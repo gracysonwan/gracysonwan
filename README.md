@@ -1,56 +1,69 @@
-
+<!-- =====================================================================
+     G R A C Y   S O N W A N  ·  GitHub Profile README
+     Bold editorial · Magazine cover energy · Dark luxury
+===================================================================== -->
 
 <div align="center">
 
-<!-- ═══════════════════════════ HERO ═══════════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  HERO POSTER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=200&section=header&text=Gracy%20Sonwan&fontSize=52&fontColor=F8FAFC&fontAlignY=38&desc=Backend%20Engineer%20%C2%B7%20AI%20Explorer%20%C2%B7%20Fintech%20Builder&descSize=16&descColor=C084FC&descAlignY=60&animation=fadeIn" width="100%" alt="header"/>
-
-<br/>
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Inter&weight=500&size=22&pause=1000&color=C084FC&center=true&vCenter=true&width=600&lines=Pre-final+Year+CS+Student;Java+%7C+Spring+Boot+%7C+REST+APIs;Building+Systems+that+Scale;Exploring+AI+%C3%97+Backend+Engineering)](https://git.io/typing-svg)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=20&section=header" width="100%"/>
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=gracysonwan&style=for-the-badge&color=C084FC&labelColor=0D1117" alt="profile views"/>
+```
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+░                                                                        ░
+░           ██████╗ ██████╗  █████╗  ██████╗██╗   ██╗                  ░
+░          ██╔════╝ ██╔══██╗██╔══██╗██╔════╝╚██╗ ██╔╝                  ░
+░          ██║  ███╗██████╔╝███████║██║      ╚████╔╝                   ░
+░          ██║   ██║██╔══██╗██╔══██║██║       ╚██╔╝                    ░
+░          ╚██████╔╝██║  ██║██║  ██║╚██████╗   ██║                     ░
+░           ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝   ╚═╝                    ░
+░                                                                        ░
+░                   S O N W A N                                          ░
+░                                                                        ░
+░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░░
+```
+
+<br/>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=18&pause=1200&color=C084FC&center=true&vCenter=true&width=650&lines=BACKEND+ENGINEER+%C2%B7+AI+EXPLORER+%C2%B7+SYSTEM+BUILDER;Java+%7C+Spring+Boot+%7C+REST+APIs+%7C+MySQL;Pre-Final+Year+CS+Student+%C2%B7+India;Building+Systems+that+Think+%26+Scale)](https://git.io/typing-svg)
+
+<br/>
+
+```
+─────────────────── VOL. 2025 · ISSUE #SWE ───────────────────
+  Pre-final year CS student. Backend developer by practice.
+  AI explorer by ambition. Hackathon competitor by choice.
+──────────────────────────────────────────────────────────────
+```
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ ABOUT ═══════════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  EDITORIAL DIVIDER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,12&height=3&section=header" width="100%"/>
 
-```
-╭──────────────────────────────────────────────────────────────────╮
-│                                                                    │
-│   Pre-final year Computer Science student building clean,          │
-│   scalable backend systems — and actively exploring where          │
-│   AI meets real-world software engineering.                        │
-│                                                                    │
-│   Passionate about fintech, intelligent applications, and          │
-│   solving problems that actually matter.                           │
-│                                                                    │
-╰──────────────────────────────────────────────────────────────────╯
-```
+### `[ STACK · CRAFT · AMBITION ]`
 
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ TECH STACK ═══════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Laptop.png" width="26px"/>
-  &nbsp;Tech Stack
-</h2>
-
-<br/>
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  TECH STACK  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-**Languages**
+<h2>◈ &nbsp; T E C H &nbsp; S T A C K &nbsp; ◈</h2>
+
+<br/>
+
+**— LANGUAGES —**
 
 ![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -59,7 +72,7 @@
 
 <br/>
 
-**Backend & Frameworks**
+**— BACKEND & FRAMEWORKS —**
 
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Spring Security](https://img.shields.io/badge/Spring%20Security-%236DB33F.svg?style=for-the-badge&logo=springsecurity&logoColor=white)
@@ -68,14 +81,9 @@
 
 <br/>
 
-**Databases**
+**— DATABASE & TOOLS —**
 
 ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-
-<br/>
-
-**Tools & Ecosystem**
-
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![Maven](https://img.shields.io/badge/Maven-%23C71A36.svg?style=for-the-badge&logo=apachemaven&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
@@ -83,7 +91,7 @@
 
 <br/>
 
-**Currently Learning**
+**— CURRENTLY LEARNING —**
 
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-%23FF9ECF.svg?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![System Design](https://img.shields.io/badge/System%20Design-%23B794F4.svg?style=for-the-badge&logo=databricks&logoColor=white)
@@ -93,39 +101,57 @@
 
 <br/>
 
-<!-- ═══════════════════════════ GITHUB STATS ═══════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Bar%20Chart.png" width="26px"/>
-  &nbsp;GitHub Stats
-</h2>
-
-<br/>
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  POSTER DIVIDER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=gracysonwan&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=FF9ECF&text_color=F8FAFC&border_radius=12" height="165" alt="GitHub Stats"/>
-&nbsp;&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracysonwan&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=F8FAFC&border_radius=12&langs_count=6" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gracysonwan&theme=midnight-purple&hide_border=true&background=0D1117&stroke=C084FC&ring=FF9ECF&fire=C084FC&currStreakLabel=B794F4&sideLabels=F8FAFC&dates=F8FAFC&border_radius=12" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gracysonwan&bg_color=0D1117&color=C084FC&line=B794F4&point=FF9ECF&area=true&hide_border=true&border_radius=12" width="95%" alt="Activity Graph"/>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║    "I don't just write code.                                         ║
+║     I engineer solutions that are clean, scalable, and built         ║
+║     to last — then I ask: what if this could think too?"             ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ PROJECTS ═══════════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  GITHUB STATS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Sparkles.png" width="26px"/>
-  &nbsp;Featured Projects
-</h2>
+<div align="center">
+
+<h2>◈ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; ◈</h2>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=gracysonwan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=FF9ECF&text_color=F8FAFC&border_radius=0" height="165" alt="GitHub Stats"/>
+&nbsp;
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracysonwan&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=F8FAFC&border_radius=0&langs_count=6" height="165" alt="Top Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com?user=gracysonwan&hide_border=true&background=0D1117&stroke=C084FC&ring=FF9ECF&fire=C084FC&currStreakLabel=B794F4&sideLabels=F8FAFC&dates=F8FAFC&border_radius=0" alt="GitHub Streak"/>
+
+<br/><br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=gracysonwan&bg_color=0D1117&color=C084FC&line=B794F4&point=FF9ECF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
+
+</div>
+
+<br/>
+
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  PROJECTS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,12&height=3&section=header" width="100%"/>
+
+<h2>◈ &nbsp; F E A T U R E D &nbsp; W O R K &nbsp; ◈</h2>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=12,20,24&height=3&section=header" width="100%"/>
+</div>
 
 <br/>
 
@@ -135,10 +161,16 @@
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🍽️ Food Buddy AI</h3>
+```
+┌─────────────────────────────────────┐
+│  PROJECT №01                        │
+│  ─────────────────────────────────  │
+│  🍽️  FOOD BUDDY AI                  │
+└─────────────────────────────────────┘
+```
 
 <p align="center">
-A friendly web app that helps users understand any food — users enter a food name or image to get simple, engaging explanations about ingredients, nutrition, and why people love it.
+Web app that explains any food in a simple, engaging way — users enter a name or image and get friendly insights on ingredients, nutrition, and appeal.
 </p>
 
 <p align="center">
@@ -148,17 +180,23 @@ A friendly web app that helps users understand any food — users enter a food n
 
 <p align="center">
 <a href="https://github.com/gracysonwan/Food-Buddy-AI">
-<img src="https://img.shields.io/badge/View%20Repository-%23C084FC?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
+<img src="https://img.shields.io/badge/→%20VIEW%20REPO-%23C084FC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">📦 Supply Chain Management</h3>
+```
+┌─────────────────────────────────────┐
+│  PROJECT №02                        │
+│  ─────────────────────────────────  │
+│  📦  SUPPLY CHAIN MANAGEMENT        │
+└─────────────────────────────────────┘
+```
 
 <p align="center">
-A web-based Supply Chain Management System built with Python Flask and MySQL — featuring end-to-end supply chain tracking and data management.
+Full-stack web system for end-to-end supply chain tracking, built with Python Flask and MySQL — clean data flows, structured operations.
 </p>
 
 <p align="center">
@@ -169,19 +207,26 @@ A web-based Supply Chain Management System built with Python Flask and MySQL —
 
 <p align="center">
 <a href="https://github.com/gracysonwan/supply-chain-management">
-<img src="https://img.shields.io/badge/View%20Repository-%23C084FC?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
+<img src="https://img.shields.io/badge/→%20VIEW%20REPO-%23C084FC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </td>
 </tr>
+
 <tr>
 <td width="50%" valign="top">
 
-<h3 align="center">🎓 Student Management System</h3>
+```
+┌─────────────────────────────────────┐
+│  PROJECT №03                        │
+│  ─────────────────────────────────  │
+│  🎓  STUDENT MANAGEMENT SYSTEM      │
+└─────────────────────────────────────┘
+```
 
 <p align="center">
-A Java console application implementing core OOP principles — supports adding, searching, displaying, and deleting student records using linear search and ArrayList.
+Java console application demonstrating core OOP principles — add, search, display, and delete student records with linear search and ArrayList.
 </p>
 
 <p align="center">
@@ -191,17 +236,23 @@ A Java console application implementing core OOP principles — supports adding,
 
 <p align="center">
 <a href="https://github.com/gracysonwan/Student-Management-System">
-<img src="https://img.shields.io/badge/View%20Repository-%23C084FC?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
+<img src="https://img.shields.io/badge/→%20VIEW%20REPO-%23C084FC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
 </td>
 <td width="50%" valign="top">
 
-<h3 align="center">🗳️ VaultVote</h3>
+```
+┌─────────────────────────────────────┐
+│  PROJECT №04                        │
+│  ─────────────────────────────────  │
+│  🗳️  VAULTVOTE                      │
+└─────────────────────────────────────┘
+```
 
 <p align="center">
-A web-based voting application — exploring secure, structured decision-making interfaces through clean frontend design.
+A web-based voting application — exploring secure, structured decision-making interfaces through deliberate frontend design.
 </p>
 
 <p align="center">
@@ -210,7 +261,7 @@ A web-based voting application — exploring secure, structured decision-making 
 
 <p align="center">
 <a href="https://github.com/gracysonwan/vaultvote">
-<img src="https://img.shields.io/badge/View%20Repository-%23C084FC?style=for-the-badge&logo=github&logoColor=white" alt="repo"/>
+<img src="https://img.shields.io/badge/→%20VIEW%20REPO-%23C084FC?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 </p>
 
@@ -222,71 +273,78 @@ A web-based voting application — exploring secure, structured decision-making 
 
 <br/>
 
-<!-- ═══════════════════════════ CURRENT FOCUS ═══════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Travel%20and%20places/Rocket.png" width="26px"/>
-  &nbsp;Current Focus
-</h2>
-
-<br/>
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CURRENT FOCUS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
-| Area | What I'm working on |
-|:---|:---|
-| 🧠 **DSA & Problem Solving** | Strengthening algorithmic thinking and competitive coding |
-| ⚙️ **System Design** | Learning to architect scalable, production-grade systems |
-| 🤖 **AI × Backend** | Exploring AI integration within Java and Python backends |
-| 🏦 **Fintech** | Building intelligent fintech applications and prototypes |
-| 🏆 **Hackathons** | Competing in national-level tech and fintech challenges |
-| 🎯 **Internship Prep** | Targeting software engineering roles at top-tier companies |
+<h2>◈ &nbsp; C U R R E N T &nbsp; F O C U S &nbsp; ◈</h2>
+
+<br/>
+
+```
+  ┌──────────────────────┬────────────────────────────────────────────────┐
+  │  🧠  DSA             │  Strengthening algorithmic thinking            │
+  │  ⚙️  System Design   │  Architecting scalable, production-grade systems│
+  │  🤖  AI × Backend    │  Integrating intelligence into Java & Python   │
+  │  🏆  Hackathons      │  Competing in national-level tech challenges   │
+  │  🎯  Internships     │  Open to software engineering roles anywhere   │
+  └──────────────────────┴────────────────────────────────────────────────┘
+```
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ SNAKE ANIMATION ═══════════════════════════ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  SNAKE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"/>
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"/>
-  <img alt="GitHub contribution snake animation" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
+  <img alt="contribution snake" src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="95%"/>
 </picture>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════ CONNECT ═══════════════════════════ -->
-
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" width="26px"/>
-  &nbsp;Let's Connect
-</h2>
-
-<br/>
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  CONNECT  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
+<h2>◈ &nbsp; C O N N E C T &nbsp; ◈</h2>
+
+<br/>
+
 <a href="https://linkedin.com/in/gracy-sonwan">
-  <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <img src="https://img.shields.io/badge/LINKEDIN-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 &nbsp;
 <a href="mailto:gracysonwan11@gmail.com">
-  <img src="https://img.shields.io/badge/Email-%23C084FC.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  <img src="https://img.shields.io/badge/EMAIL-%23C084FC.svg?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 &nbsp;
 <a href="https://github.com/gracysonwan">
-  <img src="https://img.shields.io/badge/GitHub-%23F8FAFC.svg?style=for-the-badge&logo=github&logoColor=0D1117" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/GITHUB-%23F8FAFC.svg?style=for-the-badge&logo=github&logoColor=0D1117"/>
 </a>
-
-</div>
 
 <br/><br/>
 
-<!-- ═══════════════════════════ FOOTER ═══════════════════════════ -->
+<!-- FOOTER POSTER -->
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24&height=120&section=footer&text=Building%20technology%20with%20curiosity%2C%20clarity%2C%20and%20purpose.&fontSize=14&fontColor=B794F4&fontAlignY=65&animation=fadeIn" width="100%" alt="footer"/>
+```
+╔══════════════════════════════════════════════════════════════════════╗
+║                                                                      ║
+║          B U I L D I N G   T E C H N O L O G Y                      ║
+║          W I T H   C U R I O S I T Y ,   C L A R I T Y ,            ║
+║          A N D   P U R P O S E .                                     ║
+║                                                                      ║
+║                          — Gracy Sonwan                              ║
+╚══════════════════════════════════════════════════════════════════════╝
+```
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=20,24,12&height=4&section=footer" width="100%"/>
+
+</div>
+
