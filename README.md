@@ -7,7 +7,7 @@
 
 <!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  HERO POSTER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=17,20,24,12&height=280&section=header&text=Gracy%20Sonwan&fontSize=72&fontColor=F8FAFC&fontAlignY=45&desc=Backend%20Engineer%20%20%C2%B7%20%20AI%20Explorer%20%20%C2%B7%20%20System%20Builder&descSize=17&descColor=C084FC&descAlignY=65&animation=fadeIn&stroke=B794F4&strokeWidth=1" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,30:1a0533,70:3b0764,100:0D1117&height=260&section=header&text=Gracy%20Sonwan&fontSize=72&fontColor=F8FAFC&fontAlignY=42&desc=Backend%20Engineer%20%20%C2%B7%20%20AI%20Explorer%20%20%C2%B7%20%20System%20Builder&descSize=17&descColor=C084FC&descAlignY=62&animation=fadeIn" width="100%"/>
 
 <br/>
 
@@ -19,9 +19,9 @@
 
 <table border="0" cellspacing="0" cellpadding="0">
 <tr>
-<td valign="middle" align="center" width="220">
+<td valign="middle" align="center" width="280">
 
-<img src="./girl.png"/>
+<img src="./girl.png" width="270" style="border-radius: 20px; border: 2px solid #C084FC;" alt="coder girl character"/>
 
 </td>
 <td valign="middle" align="left" width="30">&nbsp;</td>
