@@ -15,12 +15,38 @@
 
 <br/>
 
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  PIXEL GIRL + ABOUT  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+
+<table border="0" cellspacing="0" cellpadding="0">
+<tr>
+<td valign="middle" align="center" width="220">
+
+<img src="./girl.png"/>
+
+</td>
+<td valign="middle" align="left" width="30">&nbsp;</td>
+<td valign="middle" align="left">
+
 ```
-─────────────────── VOL. 2025 · ISSUE #SWE ───────────────────
-  Pre-final year CS student. Backend developer by practice.
-  AI explorer by ambition. Hackathon competitor by choice.
-──────────────────────────────────────────────────────────────
+─────────────────────────────────────────
+  VOL. 2025 · ISSUE #SWE
+─────────────────────────────────────────
+
+  Pre-final year CS student.
+  Backend developer by practice.
+  AI explorer by ambition.
+  Hackathon competitor by choice.
+
+  Currently: building systems that
+  are clean, scalable — and asking
+  "what if this could think too?"
+
+─────────────────────────────────────────
 ```
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -84,7 +110,7 @@
 
 <br/>
 
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  POSTER DIVIDER  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
+<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  PULL QUOTE  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
 
 <div align="center">
 
@@ -97,30 +123,6 @@
 ║                                                                      ║
 ╚══════════════════════════════════════════════════════════════════════╝
 ```
-
-</div>
-
-<br/>
-
-<!-- ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓  GITHUB STATS  ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ -->
-
-<div align="center">
-
-<h2>◈ &nbsp; G I T H U B &nbsp; S T A T S &nbsp; ◈</h2>
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=gracysonwan&show_icons=true&hide_border=true&bg_color=0D1117&title_color=C084FC&icon_color=FF9ECF&text_color=F8FAFC&border_radius=0" height="165" alt="GitHub Stats"/>
-&nbsp;
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gracysonwan&layout=compact&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=F8FAFC&border_radius=0&langs_count=6" height="165" alt="Top Languages"/>
-
-<br/><br/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com?user=gracysonwan&hide_border=true&background=0D1117&stroke=C084FC&ring=FF9ECF&fire=C084FC&currStreakLabel=B794F4&sideLabels=F8FAFC&dates=F8FAFC&border_radius=0" alt="GitHub Streak"/>
-
-<br/><br/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=gracysonwan&bg_color=0D1117&color=C084FC&line=B794F4&point=FF9ECF&area=true&hide_border=true" width="95%" alt="Activity Graph"/>
 
 </div>
 
@@ -313,8 +315,6 @@ A web-based voting application — exploring secure, structured decision-making 
 </a>
 
 <br/><br/>
-
-<!-- FOOTER POSTER -->
 
 ```
 ╔══════════════════════════════════════════════════════════════════════╗
